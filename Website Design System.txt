@@ -1,3 +1,7 @@
+                                                                  Website Design System
+                                                                                   HTML
+
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -91,7 +95,7 @@
         <div class="footer">
             <p class="foot">Footer</p>
             <ul>
-                <li>font-size: 1px;</li>
+                <li>font-size: 16px;</li>
                 <li>font-weight: bold</li>
                 <li>font-family: cursive;</li>
             </ul>

@@ -1,0 +1,146 @@
+                                                                Website Design System
+                                                                                   CSS
+body {
+    width: 100%;
+    display: block;
+}
+h1 {
+font-family: fantasy;
+text-align: center;
+}
+h2 {
+font-family: 'Times New Roman', Times, serif;
+}
+footer {
+font-family: cursive;
+text-align: center;
+font-weight: bold;
+font-size: 16px;
+}
+.color-block {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+
+.black-block {
+    background-color: #000000;
+    color: white;
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+   }
+
+.blue-block {
+    background-color: #000080;
+   color: white;
+   display: inline-block;
+   width: 32%;
+   text-align: center;
+   margin: 20px auto;
+   min-height: 100px;
+}
+
+.green-block {
+    background-color: #107C10;
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.red-block {
+    background-color: #A80000;
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.orange-block {
+  background-color: #FFA500;
+  display: inline-block;
+  width: 32%;
+  text-align: center;
+  margin: 20px auto;
+  min-height: 100px;  
+}
+
+.yellow-block {
+    background-color: #FFFF00;
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+   
+}
+.font-block {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+}
+ .times {
+    text-decoration:underline;
+}
+.times-new {
+    display: inline-block;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    width: 35%;
+    text-align: left;
+    margin: 20px auto;
+    min-height: 100px;
+}
+.fan {
+    display: inline-block;
+    font-family: fantasy;
+    font-size: 20px;
+    width: 35%;
+    text-align: left;
+    margin: 20px auto;
+    min-height: 100px;
+}
+.fantasy {
+    text-decoration: underline;
+}
+.mono {
+    display: inline-block;
+    font-family: monospace;
+    font-size: 20px;
+    width: 35%;
+    text-align: left;
+    margin: 20px auto;
+    min-height: 100px;
+}
+.space {
+    text-decoration: underline;
+}
+.cursive-1 {
+    display: inline-block;
+    font-family: cursive;
+    font-size: 20px;
+    width: 35%;
+    text-align: left;
+    margin: 20px auto;
+    min-height: 100px;
+}
+.cursive-2 {
+    text-decoration: underline;
+}
+.text-style {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+}
+.one {
+    font-size: 32px;
+}
+.two {
+    font-size: 20px;
+}
